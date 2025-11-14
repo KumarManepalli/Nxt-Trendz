@@ -1,5 +1,6 @@
 In this project, let's build a **Nxt Trendz - Cart Features** by applying the concepts we have learned till now.
 
+### project veiw URL https://MkumarNxtTrendz.ccbp.tech
 ### Refer to the video below:
 
 <br/>
@@ -141,8 +142,8 @@ Use these files to complete the implementation:
 - Prime User credentials
 
   ```text
-   username: rahul
-   password: rahul@2021
+   username: kumar
+   password: kumar@2025
   ```
 
 - Non-Prime User credentials
